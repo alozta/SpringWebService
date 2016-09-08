@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa2f5a19-b304-4361-ad01-e1745960e7c5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/imarine/WebService/MongoConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/imarine/WebService/MongoConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/imarine/WebService/Test.java" afterPath="$PROJECT_DIR$/src/main/java/com/imarine/WebService/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebService.iml" afterPath="$PROJECT_DIR$/WebService.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebService.iws" />
@@ -555,12 +551,12 @@
       <updated>1473251809694</updated>
       <workItem from="1473251812740" duration="1670000" />
       <workItem from="1473254235916" duration="100000" />
-      <workItem from="1473317157332" duration="17894000" />
+      <workItem from="1473317157332" duration="18507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19664000" />
+    <option name="totallyTimeSpent" value="20277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="1" />
