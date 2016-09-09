@@ -2,6 +2,7 @@ package com.imarine.WebService;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.data.mongodb.core.MongoOperations;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
@@ -34,6 +35,7 @@ public class WebService {
         private static final String template = "Hello, %s!";
         private final AtomicLong counter = new AtomicLong();
 
+        @CrossOrigin
         @RequestMapping("/saved_alarms")        //Use @RequestMapping(method=GET) to narrow this mapping.
         public SavedAlarms saved_alarms(@RequestParam(value="type", defaultValue="none") String type,
                                         @RequestParam(value="operation", defaultValue="none") String operation,
